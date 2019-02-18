@@ -1,0 +1,51 @@
+#header IMG {
+	
+}
+.block PRE {
+	OVERFLOW: hidden; WIDTH: 100%
+}
+#footer-inner {
+	HEIGHT: 1em
+}
+UL.menu {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FLOAT: left; PADDING-BOTTOM: 0px! important; MARGIN: 0px; OVERFLOW: hidden; PADDING-TOP: 0px! important
+}
+UL.menu LI {
+	PADDING-RIGHT: 0px! important; DISPLAY: inline-block; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important
+}
+UL.menu A {
+	DISPLAY: block; WIDTH: auto
+}
+#navigation {
+	TEXT-ALIGN: center
+}
+#navigation .wrap-center {
+	DISPLAY: inline-block
+}
+#navigation .expanded A {
+	BACKGROUND: url(../images/icn-arrow-down-light.png) no-repeat 96% 51%
+}
+.panel-col-left {
+	WIDTH: 49%
+}
+.node-teaser {
+	PADDING-BOTTOM: 2em
+}
+.comment .links LI {
+	DISPLAY: inline
+}
+.forum-post .links LI {
+	DISPLAY: inline
+}
+.with-picture {
+	PADDING-BOTTOM: 150px
+}
+.without-picture {
+	PADDING-BOTTOM: 95px
+}
+.with-photo .meta {
+	HEIGHT: 7.25em
+}
+.form-item-required .form-required {
+	LEFT: -0.75em; LINE-HEIGHT: 0.75em
+}

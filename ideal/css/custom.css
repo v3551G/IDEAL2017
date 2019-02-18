@@ -1,0 +1,69 @@
+HTML {
+	BACKGROUND: url(files/gray_body_background.gif) #eaeaea repeat-y center top
+}
+BODY {
+	BACKGROUND: url(files/gray_body_background.gif) #eaeaea repeat-y center top
+}
+HTML {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+BODY {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-radio {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-checkbox {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-file {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-select {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+SELECT {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-text {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+INPUT {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+.form-textarea {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+TEXTAREA {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H1 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H2 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H3 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H4 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H5 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+H6 {
+	FONT-FAMILY: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", "DejaVu Sans", Arial, sans-serif
+}
+#wrapper {
+	FONT-SIZE: 14px
+}
+#header {
+	HEIGHT: 197px
+}
+#wrapper {
+	WIDTH: 960px
+}
+#footer {
+	WIDTH: 960px
+}
